@@ -1,6 +1,5 @@
 {
   "name": "tree-sitter-meteor",
   "version": "0.1.0",
-  "description": "Tree-sitter grammar for Meteor",
-  "main": "grammar.js"
+  "main": "bindings/node"
 }

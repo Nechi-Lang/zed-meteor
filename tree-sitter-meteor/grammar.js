@@ -34,16 +34,19 @@ module.exports = grammar({
             ";"
         ),
 
-        string: $ => /"([^"\\]|\\.)*"/,
+        string: $ =>
+            /"([^"\\]|\\.)*"/,
 
-        boolean: $ => choice(
-            "true",
-            "false"
-        ),
+        boolean: $ =>
+            choice(
+                "true",
+                "false"
+            ),
 
-        comment: $ => token(seq(
-            "//",
-            /.*/
-        ))
+        comment: $ =>
+            token(seq(
+                "//",
+                /.*/
+            ))
     }
 });

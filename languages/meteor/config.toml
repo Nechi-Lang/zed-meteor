@@ -1,0 +1,8 @@
+name = "Meteor"
+grammar = "meteor"
+
+path_suffixes = ["mt"]
+
+line_comments = ["//"]
+
+tab_size = 4

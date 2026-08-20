@@ -1,0 +1,22 @@
+{
+  "write keyword": {
+    "prefix": "write",
+    "body": "write$0",
+    "description": "write(string, bool)\nstring -> \"something\"\nbool -> true or false"
+  },
+  "exec keyword": {
+    "prefix": "exec",
+    "body": "exec$0",
+    "description": "exec(string)\nstring -> \"something\""
+  },
+  "true boolean": {
+    "prefix": "true",
+    "body": "true$0",
+    "description": "true -> boolean type"
+  },
+  "false boolean": {
+    "prefix": "false",
+    "body": "false$0",
+    "description": "false -> boolean type"
+  }
+}

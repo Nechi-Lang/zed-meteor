@@ -1,9 +1,0 @@
-C:\Users\erlan\Open Sources Project\LANG\zed-meteor\tree-sitter-meteor\target\debug\deps\tree_sitter-499037b53fc40521.d: C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\lib.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\ffi.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\util.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\./bindings.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\../include/tree_sitter/parser.h
-
-C:\Users\erlan\Open Sources Project\LANG\zed-meteor\tree-sitter-meteor\target\debug\deps\libtree_sitter-499037b53fc40521.rmeta: C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\lib.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\ffi.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\util.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\./bindings.rs C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\../include/tree_sitter/parser.h
-
-C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\lib.rs:
-C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\ffi.rs:
-C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\util.rs:
-C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\./bindings.rs:
-C:\Users\erlan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tree-sitter-0.20.10\binding_rust\../include/tree_sitter/parser.h:

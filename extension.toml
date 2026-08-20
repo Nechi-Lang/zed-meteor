@@ -3,8 +3,10 @@ name = "Meteor"
 version = "0.1.0"
 schema_version = 1
 authors = ["Nechi"]
-description = "Syntax highlighting for Meteor programming language."
+description = "Meteor programming language support for Zed"
 
-[grammar.meteor]
-repository = "https://github.com/Nechi-Lang/zed-meteor"
-commit = "679faff"
+snippets = ["snippets/meteor.json"]
+
+[grammars.meteor]
+repository = "https://github.com/Nechi-Lang/tree-sitter-meteor"
+rev = "6850cd2c2f339f3414847bdb6eb09c57db4082bf"

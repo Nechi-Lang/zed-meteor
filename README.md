@@ -1,2 +1,2 @@
 # zed-meteor
-Zed extention for Meteor Lang
+Zed extension for Meteor Lang

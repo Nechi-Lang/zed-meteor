@@ -4,6 +4,8 @@
 (string) @string
 (boolean) @constant.builtin
 
+(number) @number
+
 (comment) @comment
 
 "(" @punctuation.bracket
